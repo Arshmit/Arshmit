@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arshmit
 - 👀 I’m interested in ... Software development and Database administration
-- 🌱 I’m currently learning ... React, Django and Vendia
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... React, Django
 - 📫 How to reach me ... LinkedIn (Arshmit Singh Bains)
 
 <!---
